@@ -1,4 +1,4 @@
-# Coursera-Deep-Learning-Specialization
+# Coursera-Deep-Learning-Specialization :blush: (Completed)
 Repo for coursera deep learning specialization lectured by deeplearning.ai
 
 1. Neural Networks and Deep Learning
